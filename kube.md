@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Kubernetes
-permalink: /software/
+permalink: /kube/
 ---
 
 # Kubernetes
