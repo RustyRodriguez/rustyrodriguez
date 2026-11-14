@@ -9,5 +9,5 @@ baseurl: "/rustyrodriguez"
 
 header_pages:
   - math.md
-  - software.md
+  - kube.md
   - about.md
