@@ -1,13 +1,17 @@
 
-title: Ty Rodriguez
-description: Personal Website and Blog
+title: Tyler Rodriguez
+description: Personal Website & Blogs
+author: Tyler Rodriguez
 
-theme: minima
+remote_theme: daattali/beautiful-jekyll@6.0.1
 
 url: "https://rustyrodriguez.github.io"
 baseurl: "/rustyrodriguez"
 
-header_pages:
-  - math.md
-  - kube.md
-  - about.md
+navbar-links:
+  Mathematics: "math/"
+  Kubernetes: "kube/"
+  About Me: "about/"
+
+social-network-links:
+  github: RustyRodriguez
