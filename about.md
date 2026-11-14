@@ -4,7 +4,7 @@ title: About Ty
 permalink: /about/
 ---
 
-# whoami
+## whoami
 
 I'm a software engineer with a passion for mathematics. My areas of expertise include
 Backend Development, Kubernetes, and Software Security
