@@ -4,7 +4,7 @@ title: Mathematics
 permalink: /math/
 ---
 
-# Mathematics
+# Mathematics Blog
 
 Welcome to my mathematics blog.
 

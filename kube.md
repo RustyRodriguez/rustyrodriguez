@@ -4,7 +4,7 @@ title: Kubernetes
 permalink: /kube/
 ---
 
-# Kubernetes
+# Kubernetes Blog
 
 Welcome to my Kubernetes blog.
 

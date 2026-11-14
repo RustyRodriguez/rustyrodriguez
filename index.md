@@ -1,8 +1,9 @@
 ---
 layout: home
-title: Home
+title: Ty Rodriguez
 ---
 
 # Welcome!
 
-I'm Ty. I'm a software engineer with a passion for mathematics. My hobbies include running, watching baseball, and playing guitar (badly).
+I'm Ty. I'm a software engineer with a passion for mathematics. Explore my page
+and get in touch as long as your not a bot.
