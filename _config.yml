@@ -1,3 +1,4 @@
+
 title: My Personal Website
 description: Personal website and technical blog
 
@@ -5,3 +6,8 @@ theme: minima
 
 url: "https://rustyrodriguez.github.io"
 baseurl: "/rustyrodriguez"
+
+header_pages:
+  - math.md
+  - software.md
+  - about.md
