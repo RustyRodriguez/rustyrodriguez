@@ -1,7 +1,6 @@
-
 ---
 layout: page
-title: About Me
+title: About Ty
 permalink: /about/
 ---
 
